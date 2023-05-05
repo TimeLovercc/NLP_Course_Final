@@ -5,7 +5,6 @@ root-
     |-fakenewsnet_dataset
 	|-gossipcop
         |-politifact
-    |-FakeNewsNet-master
     |-main.py
     |-main_ssl.py
     |-main_ttt.py
