@@ -2,10 +2,10 @@
 ## Structure
 ```
 root-
-	|-fakenewsnet_dataset
-		|-gossipcop
+    |-fakenewsnet_dataset
+	|-gossipcop
         |-politifact
-	|-FakeNewsNet-master
+    |-FakeNewsNet-master
     |-main.py
     |-main_ssl.py
     |-main_ttt.py
