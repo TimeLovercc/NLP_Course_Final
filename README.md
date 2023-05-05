@@ -32,7 +32,7 @@ huggingface-hub==0.13.4
 ```
 
 ## Run the code
-The file `main.py` is the code to reproduce the results of the Bert in our report. The file `main_ssl.py` is the code to reproduce the results of the Bert-SSL in our report. The file `main_ttt.py` is the code to reproduce the results of the Bert-TTT in our report. Since the dataset is too large to put it in a Github repo, please check this link to download the fake news dataset `https://drive.google.com/file/d/1MSzngibe6aQ02oxEfnzQmwZNVSShXlfQ/view?usp=sharing`. Then `unzip` it and put it in the path follow the folder structure.
+The file `main.py` is the code to reproduce the results of the Bert in our report. The file `main_ssl.py` is the code to reproduce the results of the Bert-SSL in our report. The file `main_ttt.py` is the code to reproduce the results of the Bert-TTT in our report. Since the dataset is too large to put it in a Github repo, please check this link to download the fake news dataset [link](https://drive.google.com/file/d/1MSzngibe6aQ02oxEfnzQmwZNVSShXlfQ/view?usp=sharing). Then `unzip` it and put it in the path follow the folder structure.
 
 Here is an example to run the experiment for Bert-TTT on the fake news dataset `Fake`.
 ```
